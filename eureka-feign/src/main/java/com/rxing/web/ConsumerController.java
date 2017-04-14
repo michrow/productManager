@@ -1,4 +1,4 @@
-package com.didispace.web;
+package com.rxing.web;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.didispace.service.ComputeClient;
+import com.rxing.service.ComputeClient;
 
 @RestController
 public class ConsumerController {

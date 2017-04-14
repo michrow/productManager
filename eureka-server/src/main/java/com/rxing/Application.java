@@ -1,4 +1,4 @@
-package com.didispace;
+package com.rxing;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
